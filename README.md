@@ -7,4 +7,4 @@ Usualmente, la reproductividad requiere que los datos y el codigo de programacio
 
 ### Importancia de la reproductividad 
 *¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la decada de 1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:*
->"Al dia de hoy, pocos resultados publicados son reproduciblesen un sentidovpractico. Verificarlos requiere tanto esfuerzo como el que tomó crearlos. Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados. Por esta razón, muchas personas ignoran la mayor parte de la literatura cientifíca." (Claerbout,1992)
+>*"Al dia de hoy, pocos resultados publicados son reproduciblesen un sentidovpractico. Verificarlos requiere tanto esfuerzo como el que tomó crearlos. Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados. Por esta razón, muchas personas ignoran la mayor parte de la literatura cientifíca." (Claerbout,1992)*
