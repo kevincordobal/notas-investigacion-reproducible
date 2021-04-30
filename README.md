@@ -17,5 +17,7 @@ Usualmente, la reproductividad requiere que los datos y el codigo de programacio
 
 ####Bibliografía
 
-*Bezjack, S.,Clyburne-Sherin,A.,Conzett,P.,Fernandes,P.,Görögh,E.,Helbig,K.,Kramer,B.,Labastia,I.,Niemeyer,K.,Psomopoulus,F.,Ross-Hellauer,T.,Scheneider,R.,RTennant,J.,Verbakel,E.,Brinken,H.,&Heller,L.(2018). Open Science Training Handbook. Zenodo [https://doi.org/10.5281/ZENODO.1212496](https://doi.org/10.5281/ZENODO.1212496)
+*Bezjack, S.,Clyburne-Sherin,A.,Conzett,P.,Fernandes,P.,Görögh,E.,Helbig,K.,Kramer,B.,Labastia,I.,Niemeyer,K.,Psomopoulus,F.,Ross-Hellauer,T.,Scheneider,R.,RTennant,J.,Verbakel,E.,Brinken,H.,&Heller,L.(2018). Open Science Training Handbook. Zenodo [https://doi.org/10.5281/ZENODO.1212496](https://doi.org/10.5281/ZENODO.1212496)*
 
+*Claerbout,J.F.(1992). Earth Soundings Analysis:Proccesing Versus Inversion. Blackwell Sciencie Inc.*
+*Ziemann,M.,Eren,Y.,&El-Osta,A.(2016). Gene name errors are widespread in the scientific literature. Genome Biology, 17(1),177. [https://doi.org/10.1186/s13059-016-1044-7](https://doi.org/10.1186/s13059-016-1044-7)*
