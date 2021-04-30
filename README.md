@@ -15,3 +15,7 @@ Usualmente, la reproductividad requiere que los datos y el codigo de programacio
 
 *Figura 1. Resultados de la revisión sistematica de archivos Excel suplementarios. Fuente:(Ziemann et al.,2016)*
 
+####Bibliografía
+
+*Bezjack, S.,Clyburne-Sherin,A.,Conzett,P.,Fernandes,P.,Görögh,E.,Helbig,K.,Kramer,B.,Labastia,I.,Niemeyer,K.,Psomopoulus,F.,Ross-Hellauer,T.,Scheneider,R.,RTennant,J.,Verbakel,E.,Brinken,H.,&Heller,L.(2018). Open Science Training Handbook. Zenodo [https://doi.org/10.5281/ZENODO.1212496](https://doi.org/10.5281/ZENODO.1212496)
+
